@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="description" content="Welcome to the personal website of sanskar – a student. Explore my projects, resume, blog, sanskar007abc, and more.">
   <meta name="author" content="[Your Name]">
-  <title>[Your Name] | Personal Website</title>
 </head>
 
 <body style=" background-image:url(background.jpg);">
